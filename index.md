@@ -4,19 +4,21 @@ layout: default
 
 <!-- Text can be **bold**, _italic_, or ~~strikethrough~~. -->
 
-:)
+:) &nbsp;  &nbsp; :D &nbsp;  &nbsp; :| &nbsp;  &nbsp; :/ &nbsp;  &nbsp; :(
 
-# I'm Rouge
 
-- 🌱 I’m currently learning **ysyx.oscc.cc, Reverse Engineering**
+## About Me
+
+- 🌱 I’m currently learning **[ysyx.oscc.cc](https://ysyx.oscc.cc/), Reverse Engineering**
 
 - 📫 How to reach me **rougelin3877@gmail.com**
 
-## Connect with me
+- 🎓 I'm an Undergraduate student in **[Xi'an Jiaotong University](https://www.xjtu.edu.cn/)**
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rouge3877&show_icons=true&locale=en&layout=compact" alt="rouge3877" /></p>
+- 📚 I'm interested in **Computer Architecture, Cyber Security and Play Games**
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rouge3877&show_icons=true&theme=synthwave&locale=en" alt="rouge3877" /></p>
 
-[![rouge's bbdc stats](https://stat.leftover.cn/bbdc?userId=13910767&nickname=rouge)](https://github.com/left0ver/github-bbdc-stat)
+## More
+
+[![rouge's bbdc stats](https://stat.leftover.cn/bbdc?userId=13910767&nickname=rouge&theme=light)](https://github.com/left0ver/github-bbdc-stat)
 

@@ -4,7 +4,7 @@ layout: default
 
 <!-- Text can be **bold**, _italic_, or ~~strikethrough~~. -->
 
-:) &nbsp;  &nbsp; :D &nbsp;  &nbsp; :| &nbsp;  &nbsp; :/ &nbsp;  &nbsp; :(
+:) &nbsp;  &nbsp; :D &nbsp;  &nbsp; :p &nbsp;  &nbsp; :/ &nbsp;  &nbsp; :(
 
 
 ## About Me

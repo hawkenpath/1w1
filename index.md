@@ -1,6 +1,6 @@
 Data Science Portfolio
 ---
-## Machine learning
+## Machine learning & Artificial Intelligence
 
 ### AI-Driven Meta-Human Interviews: Redefining the Future of Hiring
 
@@ -11,7 +11,15 @@ Developed an AI-powered meta-human bot for candidate interviews, enhancing recru
 <center><img src="assets/img/Meta_Human_Interviewer.jpeg"/></center>
 
 ---
+### Customer Communication Preference Predictor
 
+This project leverages data analytics and machine learning to analyze and predict customer preferences for communication channels (Email, SMS, Push Notifications) based on message type (promotional & trigger). By optimizing engagement strategies, it enhances customer experience and improves marketing efficiency.
+
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/subham0206/communication-channel-preference-for-retail-customer.git)
+
+<center><img src="assets/img/A futuristic digital dashboard .jpg"/></center>
+
+---
 ### Revolutionizing Pharmaceutical Logistics: AI-Powered Invoice Processing
 
 Led development of end-to-end AI-powered invoice processing, leveraging NLP, OCR, and RPA technologies, resulting in 5000+ man-hours saved and a 90% improvement in efficiency.

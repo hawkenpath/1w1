@@ -1,8 +1,5 @@
 # Harshitha Kolipaka
 
-**Profile** : [Linkedin](https://www.linkedin.com/feed/)
-**Gmail** : harshithakolipaka28@gmail.com
-
 # About
 
 Hi there! I’m Harshitha, a final-year Computer Science and Engineering student with a passion for building meaningful solutions and making an impact through technology. 

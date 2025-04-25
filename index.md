@@ -10,11 +10,11 @@ There should be whitespace between paragraphs.
 
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
-# Project#1
+# Project 1
 
 Fraud Detection
 
-## Project#2
+## Project 2
 
 Time Series Financial Models.
 

@@ -31,8 +31,8 @@ To use the Minimal theme:
 Minimal will respect the following variables, if set in your site's `_config.yml`:
 
 ```yml
-title: [The title of your site]
-description: [A short description of your site's purpose]
+title: [Mapping Loss — Libraries and Lives in Palestine]
+description: [Libraries are not just repositories of books—they are symbols of memory, culture, and resistance. In Palestine, the destruction of libraries is not an isolated act of war; it represents a broader erasure of heritage. This project visualizes the destruction of Palestinian libraries alongside the lives lost on or around the same dates, creating a powerful data-driven narrative that links cultural annihilation with human tragedy.]
 ```
 
 Additionally, you may choose to set the following optional variables:

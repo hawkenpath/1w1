@@ -63,9 +63,9 @@ Olive Branch *(Headline/Context)*
 
 Use animation or interaction to let olives “fall” from the trees on hover—revealing names and roles.
 *Hover effect or click reveals a pop-up with:*
-1. Library detail
-2. Number of martyrs
-3. Excerpt from the report/headline
-4. Martyr stories (role, caption, contribution)
+- Library detail
+- Number of martyrs
+- Excerpt from the report/headline
+- Martyr stories (role, caption, contribution)
 
 

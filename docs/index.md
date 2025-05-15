@@ -60,6 +60,7 @@ Olive Branch *(Headline/Context)*
 - Trees that no longer exist (libraries destroyed) can be illustrated as stumps.
 
 **HUMAN-CENTERED:**
+
 Use animation or interaction to let olives “fall” from the trees on hover—revealing names and roles.
 *Hover effect or click reveals a pop-up with:*
 1. Library detail

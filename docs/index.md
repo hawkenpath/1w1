@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: default
 ---
 
 **INTRODUCTION:** <p>Libraries are not just repositories of books—they are symbols of memory, culture, and resistance. In Palestine, the destruction of libraries is not an isolated act of war; it represents a broader erasure of heritage. This project visualizes the destruction of Palestinian libraries alongside the lives lost on or around the same dates, creating a powerful data-driven narrative that links cultural annihilation with human tragedy.</p>
@@ -9,3 +9,46 @@ layout: single
 - In multiple instances, libraries were destroyed on days when dozens or even hundreds of lives were lost, and among the dead were artists, writers, scholars, and archivists, people listed as “Martyrs of the Cultural Sector.” This convergence of structural and human erasure points to the obliteration of physical spaces of memory and the people who seek to celebrate and preserve it.</p> 
 - This pattern reveals that the targeting of cultural infrastructure in Palestine is not collateral but systematic. The loss of libraries is inseparable from the loss of the people who breathe life into them. The visual narrative, supported by both scraped and manually curated data, reinforces that what is being erased is not only stone and paper, but legacy, lineage, and language.</p>
 
+**OBJECTIVE:**
+<p>To create a comprehensive infographic that:</p>
+- Maps Palestinian libraries destroyed between 2013–2025. 
+- Aligns each destruction event with daily death tolls and identifies people from the cultural sector martyred on the same date. 
+- Presents a visual narrative showing the parallel erosion of cultural memory and human life.
+
+**PRIMARY DATA SOURCES:**
+- Primary Source for Library Damage: Librarians with Palestine Gaza Report 2024
+- Martyr Count and Names: The Second Preliminary Report on the Cultural Sector Damage War on Gaza Strip, October 7 – December 6, 2023
+
+**CONCEPTUAL DIRECTION:**
+<p>Using the olive tree for institutions, olives for lives, and the olive branch as a container for narrative headlines as a deeply symbolic connection with both Palestinian identity and Giorgia Lupi’s human-centered, poetic data visualizations.</p>
+
+**SYMBOLISM:**
+<p>Olive Tree (Institution)</p>
+- Each tree = one library 
+- Branches = aspects of that institution (year founded, location, function, community served) 
+- Trunk thickness = historical importance
+<p>Olives (Lives)</p>
+- Each olive = one martyr 
+- Clustered by date near the tree that corresponds with their death 
+- Color for cultural workers (ex. golden olives); artists (ex. black olives); journalists (ex. dark green olives)
+<p>Olive Branch (Headline/Context)</p>
+- Extending from each tree is a branch holding a banner-like leaf that displays the headline/source for that day
+
+**VISUALIZATION:**
+- A small forest of trees by year or region.
+- Time can flow horizontally, like rows of planted trees—1882 to 2024.
+- Trees that no longer exist (libraries destroyed) can be illustrated as stumps.
+
+**HUMAN-CENTERED:**
+- Hover effect or click reveals a pop-up with: 
+- Library detail 
+- Number of martyrs
+- Excerpt from the report/headline
+- Martyr stories (role, caption, occupation)
+
+**OBSTACLES:** 
+- Understanding what to visualize
+- Building a spatial layout
+- X-axis: Time (Year or Date) 
+- Y-axis: Location 
+- Hand-drawn images to be used for olives and trees

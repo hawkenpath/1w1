@@ -26,6 +26,9 @@ To create a comprehensive infographic that:
 
 ![Martyrs!](/assets/img/obituary.jpg)
 
+![Gender!](/assets/img/gender-contribution.jpg)
+
+
 **DATA SOURCES:**
 - Primary Source for Library Damage: Librarians with Palestine Gaza Report 2024
 - Martyr Count and Names: The Second Preliminary Report on the Cultural Sector Damage War on Gaza Strip, October 7 – December 6, 2023 

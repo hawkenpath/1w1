@@ -2,7 +2,7 @@
 layout: default
 ---
 
-![god willing | inshallah | oxala!](/assets/img/wp-one.jpg
+![god willing inshallah oxala!](/assets/img/wp-one.jpg)
 
 **INTRODUCTION:** 
 

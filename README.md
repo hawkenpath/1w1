@@ -23,4 +23,6 @@ FURTHER USES: This project will serve as:
 
 FILES LIST:
 - 2504-week11-librarydataframe.ipynb: Website data scrape of known cultural institutions that existed and are now destroyed in Palestine
+- plot-libraries.ipynb: Visualization in Pandas
+-  olivetree.ipynb: Visualization in Plotly
 - gaza_libraries_2024.csv: Dataframe that includes the list of libraries and all the information that was manually entered. 

@@ -9,18 +9,21 @@ layout: single
 - In multiple instances, libraries were destroyed on days when dozens or even hundreds of lives were lost, and among the dead were artists, writers, scholars, and archivists, people listed as “Martyrs of the Cultural Sector.” This convergence of structural and human erasure points to the obliteration of physical spaces of memory and the people who seek to celebrate and preserve it.</p> 
 - This pattern reveals that the targeting of cultural infrastructure in Palestine is not collateral but systematic. The loss of libraries is inseparable from the loss of the people who breathe life into them. The visual narrative, supported by both scraped and manually curated data, reinforces that what is being erased is not only stone and paper, but legacy, lineage, and language.</p>
 <br>
-**OBJECTIVE:** To create a comprehensive infographic that:
+**OBJECTIVE:**
+<p>To create a comprehensive infographic that:</p>
 - Maps Palestinian libraries destroyed between 2013–2025. 
 - Aligns each destruction event with daily death tolls and identifies people from the cultural sector martyred on the same date. 
 - Presents a visual narrative showing the parallel erosion of cultural memory and human life.
 <br>
+
 **PRIMARY DATA SOURCES:**
-- Primary Source for Library Damage: Librarians with Palestine Gaza Report 2024 https://librarianswithpalestine.org/gaza-report-2024/ 
+- Primary Source for Library Damage: Librarians with Palestine Gaza Report 2024
 - Martyr Count and Names: The Second Preliminary Report on the Cultural Sector Damage War on Gaza Strip, October 7 – December 6, 2023
 <br>
 **CONCEPTUAL DIRECTION:**
 <p>Using the olive tree for institutions, olives for lives, and the olive branch as a container for narrative headlines as a deeply symbolic connection with both Palestinian identity and Giorgia Lupi’s human-centered, poetic data visualizations.</p>
 <br>
+
 **SYMBOLISM:**
 <p>Olive Tree (Institution)</p>
 - Each tree = one library 
@@ -33,6 +36,7 @@ layout: single
 <p>Olive Branch (Headline/Context)</p>
 - Extending from each tree is a branch holding a banner-like leaf that displays the headline/source for that day
 <br>
+
 **VISUALIZATION:**
 - A small forest of trees by year or region.
 - Time can flow horizontally, like rows of planted trees—1882 to 2024.

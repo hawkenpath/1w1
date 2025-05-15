@@ -15,8 +15,7 @@ How does the timeline of library destruction in Palestine align with documented 
 - In multiple instances, libraries were destroyed on days when dozens or even hundreds of lives were lost, and among the dead were artists, writers, scholars, and archivists, people listed as “Martyrs of the Cultural Sector.” This convergence of structural and human erasure points to the obliteration of physical spaces of memory and the people who seek to celebrate and preserve it.
 - This pattern reveals that the targeting of cultural infrastructure in Palestine is not collateral but systematic. The loss of libraries is inseparable from the loss of the people who breathe life into them. The visual narrative, supported by both scraped and manually curated data, reinforces that what is being erased is not only stone and paper, but legacy, lineage, and language.
 
-![Libraries in Palestine!](/assets/img
-/library-location.jpg)
+![Libraries in Palestine!](/assets/img/library-location.jpg)
 
 **OBJECTIVE:** 
 
@@ -25,16 +24,14 @@ To create a comprehensive infographic that:
 - Aligns each destruction event with daily death tolls and identifies people from the cultural sector martyred on the same date. 
 - Presents a visual narrative showing the parallel erosion of cultural memory and human life.
 
-![Martyrs!](/assets/img
-/obituary.jpg)
+![Martyrs!](/assets/img/obituary.jpg)
 
 **DATA SOURCES:**
 - Primary Source for Library Damage: Librarians with Palestine Gaza Report 2024
 - Martyr Count and Names: The Second Preliminary Report on the Cultural Sector Damage War on Gaza Strip, October 7 – December 6, 2023 
 - Supplementary Sources: News articles linked in primary sources for daily death counts (Middle East Eye, Al Jazeera, New York Times, etc.)
 
-![Headlines!](/assets/img
-/headlines.jpg)
+![Headlines!](/assets/img/headlines.jpg)
 
 **CONCEPTUAL DIRECTION:**
 
@@ -42,18 +39,34 @@ Using the olive tree for institutions, olives for lives, and the olive branch as
 
 **SYMBOLISM:**
 
-Olive Tree (Institution) 
+Olive Tree *(Institution)*
 - Each tree = one library 
 - Branches = aspects of that institution (year founded, location, function, community served) 
 - Trunk thickness = historical importance
 
-Olives (Lives) 
+Olives *(Lives)*
 - Each olive = one martyr 
 - Clustered by date near the tree that corresponds with their death 
 - Colored differently for cultural workers
   (ex. golden olives); artists (ex. black); journalists (ex. dark green)
 
-Olive Branch (Headline/Context) 
+Olive Branch *(Headline/Context)*
 - Extending from each tree is a branch holding a banner-like leaf that displays the headline/source for that day 
 - Optionally, for storytelling on digital hover or print sidebars
+
+**VISUALIZATION:**
+- A small forest of trees by year or region.
+- Time can flow horizontally, like rows of planted trees—1882 to 2024.
+- Trees that no longer exist (libraries destroyed) can be illustrated as stumps.
+
+**HUMAN-CENTERED:**
+
+Use animation or interaction to let olives “fall” from the trees on hover—revealing names and roles.
+
+*Hover effect or click reveals a pop-up with:*
+1. Library detail
+2. Number of martyrs
+3. Excerpt from the report/headline
+4. Martyr stories (role, caption, contribution)
+
 

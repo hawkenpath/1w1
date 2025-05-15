@@ -71,4 +71,4 @@ Use animation or interaction to let olives “fall” from the trees on hover—
 - Excerpt from the report/headline
 - Martyr stories (role, caption, contribution)
 
-
+![Libraries in Palestine!](/assets/img/plot-library.jpg)

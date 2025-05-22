@@ -2,7 +2,7 @@
 layout: default
 ---
 
-![god willing inshallah oxala!](/assets/img/wp-one.jpg)
+![olive branch!](docs/assets/img/olive-branch-front-2.jpg)
 
 **INTRODUCTION:** 
 

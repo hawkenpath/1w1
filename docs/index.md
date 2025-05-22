@@ -2,7 +2,7 @@
 layout: default
 ---
 
-![olive branch!](docs/assets/img/olive-branch-front-2.jpg)
+![olive branch!](/assets/img/olive-branch-front-2.jpg)
 
 **INTRODUCTION:** 
 

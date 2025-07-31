@@ -2,16 +2,17 @@
 @import "rouge-github";
 
 body {
-  background-color: rgba(0, 0, 0, 0.9); /* Dark background with transparency */
+  background-color: rgba(0, 0, 0, 0.8); /* Slightly dark transparent background */
   padding: 50px;
   font: 14px/1.5 "Noto Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
-  color: #f1f1f1; /* Light color for text */
+  color: #e0e0e0; /* Lighter color for text */
   font-weight: 400;
 }
 
 h1, h2, h3, h4, h5, h6 {
-  color: #00f0ff; /* Neon blue */
+  color: #00e5ff; /* Neon blue */
   margin: 0 0 20px;
+  text-shadow: 0 0 8px rgba(0, 229, 255, 0.8); /* Glowing effect */
 }
 
 p, ul, ol, table, pre, dl {
@@ -27,15 +28,15 @@ h1 {
 }
 
 h2 {
-  color: #00f0ff; /* Neon blue */
+  color: #00e5ff; /* Neon blue */
 }
 
 h3, h4, h5, h6 {
-  color: #00f0ff; /* Neon blue */
+  color: #00e5ff; /* Neon blue */
 }
 
 a {
-  color: #00f0ff; /* Neon blue for links */
+  color: #00e5ff; /* Neon blue for links */
   text-decoration: none;
   transition: all 0.3s ease;
 }
@@ -43,6 +44,7 @@ a {
 a:hover, a:focus {
   color: #00d1e7; /* Slightly darker neon blue on hover */
   font-weight: bold;
+  text-shadow: 0 0 10px rgba(0, 209, 231, 0.7); /* Glowing hover effect */
 }
 
 a small {
@@ -62,22 +64,23 @@ a:hover small {
 }
 
 blockquote {
-  border-left: 1px solid rgba(255, 255, 255, 0.2); /* Light transparent border */
+  border-left: 1px solid rgba(255, 255, 255, 0.3); /* Light transparent border */
   margin: 0;
   padding: 0 0 0 20px;
   font-style: italic;
+  color: #00e5ff; /* Neon blue text for blockquote */
 }
 
 code, pre {
   font-family: Monaco, Bitstream Vera Sans Mono, Lucida Console, Terminal, Consolas, Liberation Mono, DejaVu Sans Mono, Courier New, monospace;
-  color: #00f0ff; /* Neon blue for code */
+  color: #00e5ff; /* Neon blue for code */
 }
 
 pre {
   padding: 8px 15px;
   background: rgba(255, 255, 255, 0.1); /* Slight transparent background */
   border-radius: 5px;
-  border: 1px solid rgba(255, 255, 255, 0.2); /* Transparent border */
+  border: 1px solid rgba(255, 255, 255, 0.3); /* Transparent border */
   overflow-x: auto;
 }
 
@@ -89,16 +92,16 @@ table {
 th, td {
   text-align: left;
   padding: 5px 10px;
-  border-bottom: 1px solid rgba(255, 255, 255, 0.2); /* Transparent borders */
+  border-bottom: 1px solid rgba(255, 255, 255, 0.3); /* Transparent borders */
 }
 
 dt {
-  color: #00f0ff; /* Neon blue for definition term */
+  color: #00e5ff; /* Neon blue */
   font-weight: 700;
 }
 
 th {
-  color: #00f0ff; /* Neon blue for table headers */
+  color: #00e5ff; /* Neon blue for table headers */
 }
 
 img {
@@ -111,7 +114,7 @@ kbd {
   border: 1px solid rgba(255, 255, 255, 0.3); /* Transparent border */
   border-radius: 3px;
   box-shadow: inset 0 -1px 0 rgba(255, 255, 255, 0.3); /* Subtle shadow */
-  color: #00f0ff; /* Neon blue text */
+  color: #00e5ff; /* Neon blue text */
   display: inline-block;
   font-size: 11px;
   line-height: 10px;
@@ -130,16 +133,16 @@ ul.downloads {
   list-style: none;
   height: 40px;
   padding: 0;
-  background: rgba(0, 0, 0, 0.3); /* Transparent dark background */
+  background: rgba(0, 0, 0, 0.4); /* Transparent dark background */
   border-radius: 5px;
-  border: 1px solid rgba(255, 255, 255, 0.2); /* Transparent border */
+  border: 1px solid rgba(255, 255, 255, 0.3); /* Transparent border */
   width: 270px;
 }
 
 .downloads li {
   width: 89px;
   float: left;
-  border-right: 1px solid rgba(255, 255, 255, 0.2);
+  border-right: 1px solid rgba(255, 255, 255, 0.3);
   height: 40px;
 }
 
@@ -154,7 +157,7 @@ ul.downloads {
 .downloads a {
   line-height: 1;
   font-size: 11px;
-  color: #00f0ff; /* Neon blue */
+  color: #00e5ff; /* Neon blue */
   display: block;
   text-align: center;
   padding-top: 6px;
@@ -164,6 +167,7 @@ ul.downloads {
 .downloads a:hover, .downloads a:focus {
   color: #00d1e7; /* Slightly darker neon blue on hover */
   font-weight: bold;
+  text-shadow: 0 0 10px rgba(0, 209, 231, 0.7); /* Glowing hover effect */
 }
 
 .downloads ul a:active {
@@ -171,7 +175,7 @@ ul.downloads {
 }
 
 strong {
-  color: #00f0ff; /* Neon blue */
+  color: #00e5ff; /* Neon blue */
   font-weight: 700;
 }
 
@@ -183,7 +187,7 @@ strong {
 .downloads a strong {
   font-size: 14px;
   display: block;
-  color: #00f0ff; /* Neon blue */
+  color: #00e5ff; /* Neon blue */
 }
 
 section {
@@ -198,7 +202,7 @@ small {
 
 hr {
   border: 0;
-  background: rgba(255, 255, 255, 0.2); /* Light transparent divider */
+  background: rgba(255, 255, 255, 0.3); /* Light transparent divider */
   height: 1px;
   margin: 0 0 20px;
 }
@@ -208,79 +212,4 @@ footer {
   float: left;
   position: fixed;
   bottom: 50px;
-  -webkit-font-smoothing: subpixel-antialiased;
-}
-
-@media screen and (max-width: 960px) {
-  .wrapper {
-    width: auto;
-    margin: 0;
-  }
-
-  header, section, footer {
-    float: none;
-    position: static;
-    width: auto;
-  }
-
-  header {
-    padding-right: 320px;
-  }
-
-  section {
-    border: 1px solid rgba(255, 255, 255, 0.2); /* Transparent border */
-    padding: 20px 0;
-    margin: 0 0 20px;
-  }
-
-  header a small {
-    display: inline;
-  }
-
-  header ul {
-    position: absolute;
-    right: 50px;
-    top: 52px;
-  }
-}
-
-@media screen and (max-width: 720px) {
-  body {
-    word-wrap: break-word;
-  }
-
-  header {
-    padding: 0;
-  }
-
-  header ul, header p.view {
-    position: static;
-  }
-
-  pre, code {
-    word-wrap: normal;
-  }
-}
-
-@media screen and (max-width: 480px) {
-  body {
-    padding: 15px;
-  }
-
-  .downloads {
-    width: 99%;
-  }
-
-  .downloads li, .downloads li + li + li {
-    width: 33%;
-  }
-}
-
-@media print {
-  body {
-    padding: 0.4in;
-    font-size: 12pt;
-    color: #444;
-  }
-}
-
+  -webkit-font-smoothing: subpixel-
